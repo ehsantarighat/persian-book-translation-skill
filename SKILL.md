@@ -1,6 +1,6 @@
 ---
-name: Persian Book Translation
-description: Translate long-form texts, books, chapters, essays, and nonfiction materials from multiple languages into fluent, faithful, publication-ready Persian with no omissions, consistent terminology, proper handling of names, and Persian editorial standards.
+name: persian-book-translation
+description: Translate long texts and books into faithful, fluent, publication-ready Persian with no omissions. Use for Persian translation requests.
 ---
 
 # Persian Book Translation Skill
@@ -15,9 +15,20 @@ The translation must never summarize, omit, compress, simplify by deletion, or c
 
 ---
 
-## When to Use This Skill
+## Use This Skill When
 
-Use this skill whenever the user asks to translate into Persian, especially when the input is:
+Use this skill when the user says or implies any of the following:
+
+- Translate this into Persian.
+- Translate this text/book/chapter/article fully into Persian.
+- ترجمه فارسی کن.
+- این متن را کامل به فارسی ترجمه کن.
+- ترجمه روان، وفادار و مناسب چاپ می‌خواهم.
+- ترجمه کتاب می‌خواهم.
+- ترجمه بدون حذف می‌خواهم.
+- متن طولانی را به فارسی معیار ترجمه کن.
+
+This skill should be used especially when the input is:
 
 - A book or book chapter
 - A long article or essay
